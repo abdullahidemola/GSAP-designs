@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+there are several app components in different folders which can be rendered one at a time
+
+
 ## Available Scripts
 
 In the project directory, you can run:
