@@ -1,16 +1,19 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 // import App2 from "./projects/lesson 2/App2";
-import App from "./projects/slider/app";
+import App3 from "./projects/slider/app3";
 // import GsapContext from "./projects/gsap-context/gsapContext";
-// import App from "./projects/lesson 1/App";
+// import App1 from "./projects/lesson 1/App1";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     {/* <GsapContext /> */}
-    {/* <App/> */}
+
+    {/* <App1 /> */}
+
     {/* <App2 /> */}
-    <App />
+
+    <App3 />
   </React.StrictMode>
 );
