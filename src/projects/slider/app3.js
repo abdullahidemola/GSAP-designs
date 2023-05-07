@@ -40,6 +40,7 @@ function App() {
     isActive0: true,
     isActive1: false,
     isActive2: false,
+    
   });
 
   useEffect(() => {

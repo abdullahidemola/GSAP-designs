@@ -18,7 +18,6 @@ const App2 = () => {
       duration: 1,
       autoAlpha: 1,
     }).to(imageReveal, { duration: 1.6, width: "0%", ease: "power2.out" });
-    console.log(imageReveal);
   });
 
   return (
